@@ -59,7 +59,7 @@ def train(docs_folder, catches_folder, models_folder, flist, d2v_modelname, catc
 	for fn in flist:
 		try:
 			text = open(os.path.join(docs_folder,fn),'r', encoding='iso-8859-1').read()
-			ctcs = [v.lower() for v in open(os.path.join(catches_folder,fn), encoding='iso-8859-1').read().split(ctc_delim)]
+			ctcs = [v.lower() for v in open(os.path.join(catches_folder,fn), encoding='iso-8859-1').read().split(catches_delimiter)]
 		except:
 			continue
 		x, y = get_tagged_words(ctcs, text)
