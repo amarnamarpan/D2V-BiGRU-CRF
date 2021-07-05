@@ -1,0 +1,7 @@
+python==3.6
+cudatoolkit==10.2
+tensorflow==1.15
+keras==2.2.0
+joblib==1.0.1
+nltk==3.6.2
+gensim==3.8.3
