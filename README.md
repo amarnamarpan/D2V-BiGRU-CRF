@@ -1,6 +1,8 @@
 # A Sequence-Labeling-Model-for-Catchphrase-Identification-from-Legal-Case-Documents
 
-We should be primarily interested in two scripts namely - **train_on_gold_standard_catches.py** for training the model and **annotate_docs.py** for predicting the catchphrases out of new unseen documents.
+We should be primarily interested in two scripts namely - 
+1. **train_on_gold_standard_catches.py** for training the model and 
+2. **annotate_docs.py** for predicting the catchphrases out of new unseen documents.
 
 All other options can be provided inside the scripts themselves. And the meaning of the variables are explained within the code using appropriate commentlines.
 Thank You.
