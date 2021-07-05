@@ -1,0 +1,1 @@
+if the prediction goes correctly, you will have the extracted catchphrases document-wise inside this folder.
