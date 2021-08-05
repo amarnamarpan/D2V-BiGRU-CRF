@@ -13,4 +13,4 @@ All other options can be provided inside the scripts themselves. And the meaning
 Thank You.
 ## Reference
 Thank you for using this implementation in your work, please cite our original paper:
-["A Sequence Labeling Model for Catchphrase Identification from Legal Case Documents", A. Mandal, K. Ghosh, S. Ghosh, S. Mandal, 2021, Journal of Artificial Intelligence and Law.](https://www.springer.com/journal/10506)
+["A Sequence Labeling Model for Catchphrase Identification from Legal Case Documents", A. Mandal, K. Ghosh, S. Ghosh, S. Mandal, 2021, Journal of Artificial Intelligence and Law.](https://link.springer.com/article/10.1007/s10506-021-09296-2)
